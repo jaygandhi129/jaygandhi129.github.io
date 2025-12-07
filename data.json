@@ -1,0 +1,236 @@
+{
+  "personalInfo": {
+    "name": "Jay Gandhi",
+    "location": "Pune, India",
+    "headline": "Building Impactful Solutions, One Commit at a Time.",
+    "tagline": "Fusing robust, production-ready Java & Python engineering with cutting-edge Generative AI, ML and NLP ",
+    "profilePicture": "./profile.png",
+    "aboutMe": "My journey in software engineering has been driven by a relentless curiosity in how intelligent systems can solve complex, real-world problems. As a Research Engineer at TCS Research, I thrive at the intersection of theory and application, passionate about designing scalable systems and translating novel Machine Learning and NLP models into deployable products. My core focus includes Java, Python, Generative AI, and Microservices architecture. My commitment is to continuous learning and delivering high-quality, impactful software.",
+    "softSkills": [
+      "System Design & Architecture",
+      "Agile Methodologies",
+      "Domain-Specific Problem-Solving",
+      "Effective Technical Communication (Talks & Publications)",
+      "Technical Mentorship"
+    ],
+    "contact": {
+      "email": "jaygandhi129@gmail.com",
+      "resumeLink": "./Resume_Jay_Gandhi.pdf",
+      "github": "https://github.com/jaygandhi129",
+      "linkedin": "https://linkedin.com/in/jaygandhi129",
+      "orcid": "https://orcid.org/0009-0007-6870-218X",
+      "researcherProfile": "https://conf.researchr.org/profile/jaygandhi"
+    }
+  },
+  "techStack": {
+    "backend": {
+      "name": "Backend and Frontend",
+      "skills": ["Java", "Python", "JavaScript", "Springboot","ReactJS", "Bootstrap", "EJS" ]
+    },
+    "databases": {
+      "name": "Databases",
+      "skills": ["MySQL", "PostgreSQL"]
+    },
+    "devops": {
+      "name": "DevOps, Cloud & Tools",
+      "skills": [ "Git", "Maven", "Jenkins (CI/CD)", "AWS Basics", "GCP Basics", "Docker"]
+    },
+    "ai_ml": {
+      "name": "Generative AI / ML / NLP",
+      "skills": ["LLMs", "Agentic AI", "Prompt Engineering", "RAG", "GNN", "Graph Clustering", "Semantic Embedding"]
+    },
+    "others": {
+      "name": "Techniques",
+      "skills": ["System Design", "REST API Design", "Automated Code Synthesis", "Object Oriented Programming", "Unit Testing"]
+    }
+  },
+  "projects": {
+    "workProjects": [
+      {
+        "name": "Automated Monolith to Microservices Decomposition Tool",
+        "description": "Led research and innovation to design an automated workflow for decomposing monoliths into domain-aligned microservices. The solution applied Graph Clustering algorithms (Markov, Louvain) on large legacy code base graphs (>5 Million Lines of Code) to identify service boundaries and integrated LLMs for semantic code summarization, reducing manual analysis time by 80% and domain mapping effort by 70%. Contributed to frontend integration React when needed to support end-to-end delivery.",
+        "myRole": "Research Engineer and Full Stack Developer",
+        "technologies": ["Java", "Python", "Springboot", "ReactJS", "Generative AI", "Symbolic AI & ML", "Semantic Similarity", "NLP"],
+        "links": {}
+      }
+    ],
+    "personalProjects": [
+      {
+        "name": "AI-Driven Microservices Refactoring API",
+        "description": "Developed a production-ready tool from scratch to operationalize the research, exposing a robust REST API for consumption and integrating a ReactJS UI. Focused on creating a tool that can be deployed to internal business units, collecting feedback from 7 stakeholders for production readiness and usability improvements.",
+        "myRole": "Sole Architect & Implementer",
+        "technologies": ["Java", "Python", "Springboot", "ReactJS", "REST API", "Jenkins (CI/CD)"],
+        "links": {
+          "github": "https://github.com/project-refactoring-tool",
+          "demo": "https://demo.refactoring-tool.com"
+        }
+      },
+      {
+        "name": "Domain Aligned Microservices Boundary Identification",
+        "description": "My research work focused specifically on the core challenge of accurately identifying service and domain boundaries within complex enterprise applications using novel AI/ML techniques. This resulted in improved decomposition quality and the foundation for the automated tool. This work led to an ACM paper and a filed patent.",
+        "myRole": "Research & Development Specialist",
+        "technologies": ["Graph Clustering", "Java", "Python", "Data Analysis", "Microservices Design"],
+        "links": {
+          "github": "https://github.com/project-domain-boundary",
+          "demo": "https://link.to.external.demonstration"
+        }
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Tata Consultancy Services (TCS Research)",
+      "role": "Research Engineer",
+      "duration": "2022 - Present",
+      "achievement": "Led a project initiavtive to design and develope an automated monolith to microservices decomposition system from scratch, reducing manual architecture refactoring efforts by 80% and resulting in 2 research papers published at well-established venues and 1 filed patent. (Refer to 'Projects' section for more details)" 
+    }
+  ],
+  "researchContributions": [
+    {
+      "title": "Microservices Identification using LLM (AISM, ASE 2025)",
+      "summary": "Authored a paper at top tier software engineering conference detailing a novel approach for leveraging Large Language Models (LLMs) to improve domain aligned microservice identification",
+      "venue": "AISM (Part of ASE 2025)",
+      "publisher": "IEEE",
+      "date": "Nov 2025",
+      "link": "https://conf.researchr.org/details/ase-2025/aism-2025-papers/4/Microservices-Identification-Using-LLM"
+    },
+    {
+      "title": "Domain Aligned Microservices Decomposition (ISEC 2025)",
+      "summary": "Contributed to a publication detailing the methodology and practical results of using graph clustering algorithms and architectural analysis for high-quality, domain-aligned microservices decomposition.",
+      "venue": "ISEC 2025",
+      "publisher": "ACM",
+      "date": "Feb 2025",
+      "link": "https://dl.acm.org/doi/10.1145/3717383.3717396"
+    },
+    {
+      "title": "Patent: Method and system for identifying domain aligned microservices in enterprise applications",
+      "summary": "Filed a patent covering the innovative method and system developed for reliably identifying and defining domain-aligned microservices boundaries in enterprise applications. (Received IP Creation Award)",
+      "venue": "INDIA",
+      "publisher": "Tata Consultancy Services (Owner)",
+      "date": "2025"
+    }
+  ]
+  ,
+  "education": [
+    {
+      "institution": "Walchand Institute of Technology, Solapur",
+      "degree": "B.Tech (Computer Science and Engineering)",
+      "duration": "2018-2022",
+      "gpa": "9.62/10"
+    }
+  ],
+  "learningAndBuilding": {
+    "title": "Currently Exploring & Building",
+    "tagline": "Curiosity is my fuel. Here's a sneak peek at what's currently occupying my headspace.",
+    "cards": [
+      {
+        "category": "Advanced AI Engineering",
+        "status": "Deep Dive",
+        "items": [
+          "Building and orchestrating Autonomous AI Agents (e.g., using CrewAI, LangGraph)",
+          "Exploring Advanced RAG architectures (HyDE, Contextual Compression)",
+          "Model Fine-Tuning techniques (LoRA, QLoRA) for domain-specific LLMs"
+        ]
+      },
+      {
+        "category": "System Scalability & Design",
+        "status": "In Progress",
+        "items": [
+          "Distributed Transaction Management (Saga, TCC Patterns)",
+          "Implementing Event Sourcing & CQRS (Command Query Responsibility Segregation)",
+          "Advanced Kafka & Messaging Patterns (Retry, Dead Letter Queue)"
+        ]
+      },
+      {
+        "category": "Polyglot Persistence",
+        "status": "Exploring",
+        "items": [
+          "Neo4j and Graph Database modeling for complex relationships (Beyond code graphs)",
+          "Optimizing PostgreSQL Performance (Indexing, Query Plan Analysis)",
+          "Implementing Distributed Caching with Redis Cluster"
+        ]
+      },
+      {
+        "category": "Personal Engineering Projects",
+        "status": "Active",
+        "items": [
+          "Open-Source Contribution to a Java/Python framework",
+          "Developing a CLI tool for Microservice Health Monitoring",
+          "Writing technical blogs on LLM research and deployment"
+        ]
+      }
+    ]
+  },
+  "awardsAndAchievements": [
+    {
+      "name": "Attended & Presented at ASE 2025",
+      "description": "Attended and presented the team's research work at a top-tier (A*) international software engineering conference (ASE 2025).",
+      "date": "2025",
+      "icon": "fas fa-medal"
+    },
+    {
+      "name": "IP Creation Award Recipient",
+      "description": "Received the IP Creation Award for successfully filing a patent related to domain-aligned microservices decomposition.",
+      "date": "2025",
+      "icon": "fas fa-lightbulb"
+    },
+    {
+      "name": "Finalist of TCS Global TACTICS",
+      "description": "Finalist of TCS Global TACTICS 2024, an internal conference focused on technical architects and advanced system design.",
+      "date": "2024",
+      "icon": "fas fa-trophy"
+    },
+    {
+      "name": "Innovation Superstar Award",
+      "description": "Won the Innovation Superstar Award for the publication of research papers in software engineering domains.",
+      "date": "2025",
+      "icon": "fas fa-star"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Cloud Certified Generative AI Leader",
+      "issuer": "Google Cloud",
+      "date": "2025",
+      "icon": "fas fa-robot"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "AWS",
+      "date": "2023",
+      "icon": "fas fa-cloud"
+    },
+    {
+      "name": "Microsoft Certified Azure Fundamentals (AZ-900)",
+      "issuer": "Microsoft",
+      "date": "2022",
+      "icon": "fas fa-cloud-upload-alt"
+    }
+  ],
+  "technicalOutreach": [
+    {
+      "topic": "Domain-Aligned Microservices: From Research to Production",
+      "venue": "TCS Global TACTICS 2024 (Internal Conference, Finalist)",
+      "date": "2024",
+      "type": "Talk/Presentation",
+      "summary": "Presented the final implementation and architectural decisions of the automated microservices decomposition tool, emphasizing scalability and production readiness.",
+      "link": "https://link.to.presentation"
+    },
+    {
+      "topic": "Applied Graph Clustering for Service Identification",
+      "venue": "Internal TCS Research Forum",
+      "date": "2023",
+      "type": "Demo",
+      "summary": "Demonstrated the practical application of Markov and Louvain clustering algorithms on code graphs to extract service boundaries accurately.",
+      "link": "https://link.to.demo-recording"
+    },
+    {
+      "topic": "LLMs for Semantic Code Summarization & Domain Mapping",
+      "venue": "ASE 2025 (Top-Tier Conference)",
+      "date": "2025",
+      "type": "Poster/Discussion",
+      "summary": "Engaged with peers on the use of Large Language Models (LLMs) to automatically generate domain insights from code, supporting the research publication.",
+      "link": "https://link.to.poster-details"
+    }
+  ]
+}
