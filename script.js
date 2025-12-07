@@ -65,7 +65,12 @@ function populateContent(data) {
     data.projects.personalProjects.forEach(project => {
         // Personal projects get half width on desktop (col-md-6)
         const col = document.createElement('div');
-        col.className = 'col-md-6';
+        if (data.projects.personalProjects.length == 1){
+            col.className = 'col-12';
+        }
+        else{
+            col.className = 'col-md-6';
+        }
         col.appendChild(createProjectCard(project));
         personalContainer.appendChild(col);
     });

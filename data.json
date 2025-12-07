@@ -47,35 +47,25 @@
   "projects": {
     "workProjects": [
       {
-        "name": "Automated Monolith to Microservices Decomposition Tool",
-        "description": "Led research and innovation to design an automated workflow for decomposing monoliths into domain-aligned microservices. The solution applied Graph Clustering algorithms (Markov, Louvain) on large legacy code base graphs (>5 Million Lines of Code) to identify service boundaries and integrated LLMs for semantic code summarization, reducing manual analysis time by 80% and domain mapping effort by 70%. Contributed to frontend integration React when needed to support end-to-end delivery.",
+        "name": "Automated AI Powered Monolith to Microservices Decomposition Tool",
+        "description": "Led the design and development of an intelligent microservices decomposition system that automatically analyzes monolithic codebases using LLM-powered semantic comprehension and GNN-based clustering algorithms optimized for modularity. Successfully processed legacy systems exceeding 5 million lines of code to identify optimal service boundaries and domain alignments, achieving an 80% reduction in manual application analysis time and 70% decrease in domain mapping and service boundary identification effort. Contributed to full-stack delivery including React-based frontend integration.",
         "myRole": "Research Engineer and Full Stack Developer",
         "technologies": ["Java", "Python", "Springboot", "ReactJS", "Generative AI", "Symbolic AI & ML", "Semantic Similarity", "NLP"],
         "links": {}
       }
     ],
     "personalProjects": [
-      {
-        "name": "AI-Driven Microservices Refactoring API",
-        "description": "Developed a production-ready tool from scratch to operationalize the research, exposing a robust REST API for consumption and integrating a ReactJS UI. Focused on creating a tool that can be deployed to internal business units, collecting feedback from 7 stakeholders for production readiness and usability improvements.",
-        "myRole": "Sole Architect & Implementer",
-        "technologies": ["Java", "Python", "Springboot", "ReactJS", "REST API", "Jenkins (CI/CD)"],
-        "links": {
-          "github": "https://github.com/project-refactoring-tool",
-          "demo": "https://demo.refactoring-tool.com"
-        }
-      },
-      {
-        "name": "Domain Aligned Microservices Boundary Identification",
-        "description": "My research work focused specifically on the core challenge of accurately identifying service and domain boundaries within complex enterprise applications using novel AI/ML techniques. This resulted in improved decomposition quality and the foundation for the automated tool. This work led to an ACM paper and a filed patent.",
-        "myRole": "Research & Development Specialist",
-        "technologies": ["Graph Clustering", "Java", "Python", "Data Analysis", "Microservices Design"],
-        "links": {
-          "github": "https://github.com/project-domain-boundary",
-          "demo": "https://link.to.external.demonstration"
-        }
+    {
+      "name": "Cluster Manipulation Tool",
+      "description": "Interactive cluster visualization and manipulation tool built with Streamlit to learn the framework. Features drag-and-drop operations, real-time search, undo/redo system (up to 10 operations), and seamless JSON import/export for team and data management. Includes merge, split, and move operations for clusters with flow-based visualization.",
+      "myRole": "Solo Developer",
+      "technologies": ["Python", "Streamlit", "streamlit-flow", "JSON"],
+      "links": {
+        "github": "https://github.com/jaygandhi129/Cluster-Manipulation-Tool",
+        "demo": "https://cluster-data-visualization.streamlit.app/"
       }
-    ]
+    }
+  ]
   },
   "experience": [
     {
@@ -88,7 +78,7 @@
   "researchContributions": [
     {
       "title": "Microservices Identification using LLM (AISM, ASE 2025)",
-      "summary": "Authored a paper at top tier software engineering conference detailing a novel approach for leveraging Large Language Models (LLMs) to improve domain aligned microservice identification",
+      "summary": "Authored a paper at top tier (A*) software engineering conference detailing a novel approach for leveraging Large Language Models (LLMs) to improve domain aligned microservice identification",
       "venue": "AISM (Part of ASE 2025)",
       "publisher": "IEEE",
       "date": "Nov 2025",
@@ -104,7 +94,7 @@
     },
     {
       "title": "Patent: Method and system for identifying domain aligned microservices in enterprise applications",
-      "summary": "Filed a patent covering the innovative method and system developed for reliably identifying and defining domain-aligned microservices boundaries in enterprise applications. (Received IP Creation Award)",
+      "summary": "Filed a patent covering the innovative method and system developed for reliably identifying and defining domain-aligned microservices boundaries in enterprise applications",
       "venue": "INDIA",
       "publisher": "Tata Consultancy Services (Owner)",
       "date": "2025"
@@ -162,21 +152,16 @@
     ]
   },
   "awardsAndAchievements": [
-    {
-      "name": "Attended & Presented at ASE 2025",
-      "description": "Attended and presented the team's research work at a top-tier (A*) international software engineering conference (ASE 2025).",
-      "date": "2025",
-      "icon": "fas fa-medal"
-    },
+   
     {
       "name": "IP Creation Award Recipient",
-      "description": "Received the IP Creation Award for successfully filing a patent related to domain-aligned microservices decomposition.",
+      "description": "Received IP Creation Award for filing a patent on domain-aligned microservices decomposition, contributing to the organization's IP portfolio.",
       "date": "2025",
       "icon": "fas fa-lightbulb"
     },
     {
       "name": "Finalist of TCS Global TACTICS",
-      "description": "Finalist of TCS Global TACTICS 2024, an internal conference focused on technical architects and advanced system design.",
+      "description": "TCS Global TACTICS 2024 Finalist - advanced to finals as one of 30 selected from 500 entries in organization-wide technical architecture competition.",
       "date": "2024",
       "icon": "fas fa-trophy"
     },
@@ -209,28 +194,37 @@
   ],
   "technicalOutreach": [
     {
+      "topic": "Microservices Identification using LLM",
+      "venue": "ASE 2025, Seoul, South Korea",
+      "date": "Nov 2025",
+      "type": "Paper Presentation",
+      "summary": "Attended in-person and presented the research work at a top-tier (A*) international software engineering (Automated Software Engineering 2025, Seoul, South Korea) .",
+      "link": ""
+    },
+    {
+      "topic": "Domain Aligned Microservices Decomposition",
+      "venue": "Software Engineering Research in India Update Meeting (SERI) 2025, NIT Warangal",
+      "date": "July 2025",
+      "type": "Presentation",
+      "summary": "Delivered talk on research contributions at annual meeting of software engineering professionals and academics from across India.",
+      "link": "https://conf.researchr.org/details/seri-2025/seri-2025-seri-2025/9/Domain-Aligned-Microservices-Decomposition"
+    },
+    {
+      "topic": "Domain Aligned Microservices Decomposition",
+      "venue": "ISEC 2025, NIT Kurukshetra",
+      "date": "Feb 2025",
+      "type": "Paper Presentation",
+      "summary": "Attended in-person and presented the research paper at a Innovations in Software Engineering Conference (ISEC) 2025",
+      "link": "https://dl.acm.org/doi/10.1145/3717383.3717396"
+    },
+    {
       "topic": "Domain-Aligned Microservices: From Research to Production",
       "venue": "TCS Global TACTICS 2024 (Internal Conference, Finalist)",
       "date": "2024",
       "type": "Talk/Presentation",
       "summary": "Presented the final implementation and architectural decisions of the automated microservices decomposition tool, emphasizing scalability and production readiness.",
-      "link": "https://link.to.presentation"
-    },
-    {
-      "topic": "Applied Graph Clustering for Service Identification",
-      "venue": "Internal TCS Research Forum",
-      "date": "2023",
-      "type": "Demo",
-      "summary": "Demonstrated the practical application of Markov and Louvain clustering algorithms on code graphs to extract service boundaries accurately.",
-      "link": "https://link.to.demo-recording"
-    },
-    {
-      "topic": "LLMs for Semantic Code Summarization & Domain Mapping",
-      "venue": "ASE 2025 (Top-Tier Conference)",
-      "date": "2025",
-      "type": "Poster/Discussion",
-      "summary": "Engaged with peers on the use of Large Language Models (LLMs) to automatically generate domain insights from code, supporting the research publication.",
-      "link": "https://link.to.poster-details"
+      "link": ""
     }
+    
   ]
 }
