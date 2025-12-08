@@ -114,39 +114,21 @@
     "tagline": "Curiosity is my fuel. Here's a sneak peek at what's currently occupying my headspace.",
     "cards": [
       {
-        "category": "Advanced AI Engineering",
-        "status": "Deep Dive",
+        "category": "World of AI",
+        "status": "In Progress",
         "items": [
           "Building and orchestrating Autonomous AI Agents (e.g., using CrewAI, LangGraph)",
           "Exploring Advanced RAG architectures (HyDE, Contextual Compression)",
-          "Model Fine-Tuning techniques (LoRA, QLoRA) for domain-specific LLMs"
+          "Model Fine-Tuning techniques for domain-specific LLMs"
         ]
       },
       {
         "category": "System Scalability & Design",
-        "status": "In Progress",
-        "items": [
-          "Distributed Transaction Management (Saga, TCC Patterns)",
-          "Implementing Event Sourcing & CQRS (Command Query Responsibility Segregation)",
-          "Advanced Kafka & Messaging Patterns (Retry, Dead Letter Queue)"
-        ]
-      },
-      {
-        "category": "Polyglot Persistence",
         "status": "Exploring",
         "items": [
-          "Neo4j and Graph Database modeling for complex relationships (Beyond code graphs)",
-          "Optimizing PostgreSQL Performance (Indexing, Query Plan Analysis)",
-          "Implementing Distributed Caching with Redis Cluster"
-        ]
-      },
-      {
-        "category": "Personal Engineering Projects",
-        "status": "Active",
-        "items": [
-          "Open-Source Contribution to a Java/Python framework",
-          "Developing a CLI tool for Microservice Health Monitoring",
-          "Writing technical blogs on LLM research and deployment"
+          "Distributed Transaction Management",
+          "Implementing Event Sourcing & CQRS",
+          "Load Balancers and Message Queues"
         ]
       }
     ]

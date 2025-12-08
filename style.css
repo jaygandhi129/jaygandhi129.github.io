@@ -233,11 +233,14 @@ body {
 }
 
 /* LINKEDIN SLIDER */
+
+/* The carousel controls will be visible on all sizes now, ensuring navigation */
 .carousel-control-prev-icon, .carousel-control-next-icon {
     filter: invert(100%); /* Makes Bootstrap's icons visible on light background */
 }
-.linkedin-embed {
-    max-width: 600px;
+
+/* Custom card style for the non-LinkedIn item */
+.spotlight-card.photo-post {
     border: 1px solid #ddd;
     border-radius: var(--border-radius);
 }
