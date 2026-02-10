@@ -5,11 +5,11 @@
     "headline": "Building Impactful Solutions, One Commit at a Time.",
     "tagline": "Fusing robust, production-ready Java & Python engineering with cutting-edge Generative AI, ML and NLP ",
     "profilePicture": "./profile.png",
-    "aboutMe": "My journey in software engineering has been driven by a relentless curiosity in how intelligent systems can solve complex, real-world problems. As a Research Engineer at TCS Research, I thrive at the intersection of theory and application, passionate about designing scalable systems and translating novel Machine Learning and NLP models into deployable products. My core focus includes Java, Python, Generative AI, and Microservices architecture. My commitment is to continuous learning and delivering high-quality, impactful software.",
+    "aboutMe": "My journey in software engineering has been driven by a relentless curiosity in how intelligent systems can solve complex, real-world problems. As a Software Engineer at TCS Research, I thrive at the intersection of theory and application, passionate about designing scalable systems and translating novel Machine Learning and NLP models into deployable products. My core focus includes Java, Python, Generative AI, and Microservices architecture. My commitment is to continuous learning and delivering high-quality, impactful software.",
     "softSkills": [
       "System Design & Architecture",
       "Agile Methodologies",
-      "Domain-Specific Problem-Solving",
+      "Problem Solving",
       "Effective Technical Communication (Talks & Publications)",
       "Technical Mentorship"
     ],
@@ -25,7 +25,7 @@
   "techStack": {
     "backend": {
       "name": "Backend and Frontend",
-      "skills": ["Java", "Python", "JavaScript", "Springboot","ReactJS", "Bootstrap", "EJS" ]
+      "skills": ["Java", "Python", "Springboot","ReactJS", "Bootstrap", "EJS" ]
     },
     "databases": {
       "name": "Databases",
@@ -33,7 +33,7 @@
     },
     "devops": {
       "name": "DevOps, Cloud & Tools",
-      "skills": [ "Git", "Maven", "Jenkins (CI/CD)", "AWS Basics", "GCP Basics", "Docker"]
+      "skills": [ "Git", "Maven", "Jenkins", "AWS Basics", "GCP Basics", "Docker"]
     },
     "ai_ml": {
       "name": "Generative AI / ML / NLP",
@@ -70,9 +70,9 @@
   "experience": [
     {
       "company": "Tata Consultancy Services (TCS Research)",
-      "role": "Research Engineer",
+      "role": "Software Engineer",
       "duration": "2022 - Present",
-      "achievement": "Led a project initiavtive to design and develope an automated monolith to microservices decomposition system from scratch, reducing manual architecture refactoring efforts by 80% and resulting in 2 research papers published at well-established venues and 1 filed patent. (Refer to 'Projects' section for more details)" 
+      "achievement": "Led a project initiative to design and develop an automated AI-driven monolith to microservices decomposition system from scratch, reducing manual architecture refactoring efforts and resulting in 3 research papers published at well-established venues and 1 filed patent. (Refer to 'Projects' section for more details)" 
     }
   ],
   "researchContributions": [
@@ -82,7 +82,7 @@
       "venue": "AISM (Part of ASE 2025)",
       "publisher": "IEEE",
       "date": "Nov 2025",
-      "link": "https://conf.researchr.org/details/ase-2025/aism-2025-papers/4/Microservices-Identification-Using-LLM"
+      "link": "https://doi.org/10.1109/ASEW67777.2025.00013"
     },
     {
       "title": "Domain Aligned Microservices Decomposition (ISEC 2025)",
@@ -117,9 +117,10 @@
         "category": "World of AI",
         "status": "In Progress",
         "items": [
-          "Building and orchestrating Autonomous AI Agents (e.g., using CrewAI, LangGraph)",
-          "Exploring Advanced RAG architectures (HyDE, Contextual Compression)",
-          "Model Fine-Tuning techniques for domain-specific LLMs"
+          "Neural Networks",
+          "Building and orchestrating Autonomous AI Agents",
+          "Exploring Advanced RAG architectures",
+          "Model fine-tuning techniques"
         ]
       },
       {
@@ -181,7 +182,7 @@
       "date": "Nov 2025",
       "type": "Paper Presentation",
       "summary": "Attended in-person and presented the research work at a top-tier (A*) international software engineering (Automated Software Engineering 2025, Seoul, South Korea) .",
-      "link": ""
+      "link": "https://doi.org/10.1109/ASEW67777.2025.00013"
     },
     {
       "topic": "Domain Aligned Microservices Decomposition",
