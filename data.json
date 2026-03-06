@@ -15,7 +15,7 @@
     ],
     "contact": {
       "email": "jaygandhi129@gmail.com",
-      "resumeLink": "./Resume_Jay_Gandhi.pdf",
+      "resumeLink": "./Resume.pdf",
       "github": "https://github.com/jaygandhi129",
       "linkedin": "https://linkedin.com/in/jaygandhi129",
       "orcid": "https://orcid.org/0009-0007-6870-218X",
@@ -50,7 +50,7 @@
         "name": "Automated AI Powered Monolith to Microservices Decomposition Tool",
         "description": "Led the design and development of an intelligent microservices decomposition system that automatically analyzes monolithic codebases using LLM-powered semantic comprehension and GNN-based clustering algorithms optimized for modularity. Successfully processed legacy systems exceeding 5 million lines of code to identify optimal service boundaries and domain alignments, achieving an 80% reduction in manual application analysis time and 70% decrease in domain mapping and service boundary identification effort. Contributed to full-stack delivery including React-based frontend integration.",
         "myRole": "Research Engineer and Full Stack Developer",
-        "technologies": ["Java", "Python", "Springboot", "ReactJS", "Generative AI", "Symbolic AI & ML", "Semantic Similarity", "NLP"],
+        "technologies": ["Python", "Java", "ReactJS", "Generative AI", "Symbolic AI & ML", "Semantic Similarity", "NLP"],
         "links": {}
       }
     ],
@@ -76,6 +76,14 @@
     }
   ],
   "researchContributions": [
+    {
+      "title": "Tracing Domain Services in Application Code using GenAI (ISEC 2026)",
+      "summary": "Contributed to approach formulation, implementation, experimentation and validation of the approach. Mapped textual domain services with legacy application code with the power of RAG and Generative AI.",
+      "venue": "ISEC 2026",
+      "publisher": "ACM",
+      "date": "Feb 2026",
+      "link": "https://doi.org/10.1145/3796563.3796592"
+    },
     {
       "title": "Microservices Identification using LLM (AISM, ASE 2025)",
       "summary": "Authored a paper at top tier (A*) software engineering conference detailing a novel approach for leveraging Large Language Models (LLMs) to improve domain aligned microservice identification",
@@ -135,7 +143,12 @@
     ]
   },
   "awardsAndAchievements": [
-   
+   {
+      "name": "Winner of TCS AI Friday Hackathon",
+      "description": "Led a team in the TCS Internal Regional AI Hackathon, securing 1st place among 30 competing teams.",
+      "date": "2026",
+      "icon": "fas fa-trophy"
+    },
     {
       "name": "IP Creation Award Recipient",
       "description": "Received IP Creation Award for filing a patent on domain-aligned microservices decomposition, contributing to the organization's IP portfolio.",
@@ -176,6 +189,14 @@
     }
   ],
   "technicalOutreach": [
+    {
+      "topic": "Tracing Domain Services in Application Code using GenAI",
+      "venue": "ISEC 2026, Jaipur, India",
+      "date": "Feb 2026",
+      "type": "Paper Presentation",
+      "summary": "Attended in-person and presented the research work.",
+      "link": "https://doi.org/10.1145/3796563.3796592"
+    },
     {
       "topic": "Microservices Identification using LLM",
       "venue": "ASE 2025, Seoul, South Korea",
