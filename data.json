@@ -25,11 +25,11 @@
   "techStack": {
     "backend": {
       "name": "Backend and Frontend",
-      "skills": ["Java", "Python", "Springboot","ReactJS", "Bootstrap", "EJS" ]
+      "skills": ["Python", "FastAPI","ReactJS", "Java", "Springboot" ]
     },
     "databases": {
       "name": "Databases",
-      "skills": ["MySQL", "PostgreSQL"]
+      "skills": ["PostgreSQL", "MySQL"]
     },
     "devops": {
       "name": "DevOps, Cloud & Tools",
@@ -37,7 +37,7 @@
     },
     "ai_ml": {
       "name": "Generative AI / ML / NLP",
-      "skills": ["LLMs", "Agentic AI", "Prompt Engineering", "RAG", "GNN", "Graph Clustering", "Semantic Embedding"]
+      "skills": ["LLMs", "Agentic AI", "Prompt Engineering", "RAG", "GNN", "Graph Clustering", "Semantic Embedding", "Harness Engineering"]
     },
     "others": {
       "name": "Techniques",
@@ -69,9 +69,15 @@
   },
   "experience": [
     {
+      "company": "LTM (LTIMindtree)",
+      "role": "Senior AI Engineer",
+      "duration": "July 2026 - Present",
+      "achievement": "Automating fraud detection and prevention workflows for a global banking client by combining generative AI with traditional data science techniques." 
+    },
+    {
       "company": "Tata Consultancy Services (TCS Research)",
-      "role": "Software Engineer",
-      "duration": "2022 - Present",
+      "role": "AI Research Engineer",
+      "duration": "July 2022 - June 2026",
       "achievement": "Led a project initiative to design and develop an automated AI-driven monolith to microservices decomposition system from scratch, reducing manual architecture refactoring efforts and resulting in 3 research papers published at well-established venues and 1 filed patent. (Refer to 'Projects' section for more details)" 
     }
   ],
