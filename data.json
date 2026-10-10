@@ -3,9 +3,9 @@
     "name": "Jay Gandhi",
     "location": "Pune, India",
     "headline": "Building Impactful Solutions, One Commit at a Time.",
-    "tagline": "Fusing robust, production-ready Java & Python engineering with cutting-edge Generative AI, ML and NLP ",
+    "tagline": "Fusing robust, production-ready software engineering with cutting-edge Generative AI, ML and NLP.",
     "profilePicture": "./profile.png",
-    "aboutMe": "My journey in software engineering has been driven by a relentless curiosity in how intelligent systems can solve complex, real-world problems. As a Software Engineer at TCS Research, I thrive at the intersection of theory and application, passionate about designing scalable systems and translating novel Machine Learning and NLP models into deployable products. My core focus includes Java, Python, Generative AI, and Microservices architecture. My commitment is to continuous learning and delivering high-quality, impactful software.",
+    "aboutMe": "My journey in software engineering has been driven by a relentless curiosity about how intelligent systems can solve complex, real-world problems. I currently work as a Data Scientist at LTM (LTIMindtree), building Agentic AI solutions for a banking client. My Python-first stack includes FastAPI, Generative AI, Machine Learning and NLP, with Java as a strong secondary language for scalable software and microservices. My commitment is to continuous learning and delivering high-quality, impactful software.",
     "softSkills": [
       "System Design & Architecture",
       "Agile Methodologies",
@@ -24,8 +24,8 @@
   },
   "techStack": {
     "backend": {
-      "name": "Backend and Frontend",
-      "skills": ["Python", "FastAPI","ReactJS", "Java", "Springboot" ]
+      "name": "Software Engineering",
+      "skills": ["Python", "FastAPI", "ReactJS", "Java", "Spring Boot"]
     },
     "databases": {
       "name": "Databases",
@@ -33,7 +33,7 @@
     },
     "devops": {
       "name": "DevOps, Cloud & Tools",
-      "skills": [ "Git", "Maven", "Jenkins", "AWS Basics", "GCP Basics", "Docker"]
+      "skills": ["Git", "Maven", "Jenkins", "AWS Basics", "GCP Basics", "Docker", "Kubernetes"]
     },
     "ai_ml": {
       "name": "Generative AI / ML / NLP",
@@ -72,7 +72,7 @@
       "company": "LTM (LTIMindtree)",
       "role": "Senior AI Engineer",
       "duration": "July 2026 - Present",
-      "achievement": "Automating fraud detection and prevention workflows for a global banking client by combining generative AI with traditional data science techniques." 
+      "achievement": "Working as a Data Scientist on Agentic AI solutions for one of the largest banking clients, focused on fraud detection and mitigation by combining generative AI with traditional data science techniques."
     },
     {
       "company": "Tata Consultancy Services (TCS Research)",
